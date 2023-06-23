@@ -1,4 +1,4 @@
-# Analysis of Scholastic Performances on Student Alcohol Consumption
+# Analysis of Student Alcohol Consumption on Scholastic Performances
 
 This project was carried out together with my colleagues **Diego Bartoli Geijo** and **Lorenzo Bruni** and consists of a **Knime workflow** for the application of multiple Machine Learning techniques to two **classification** tasks, identified with the analysis of the [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) dataset downloaded from **Kaggle**. 
 
